@@ -7,4 +7,4 @@ LABEL       Owner="ZelarSoft" \
             ProjectName="Demo"
 EXPOSE      80
 ENV         URL=google.com
-ENV         PROJECT=DEMO
+ENV         PROJECT=
